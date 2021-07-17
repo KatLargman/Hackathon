@@ -1,0 +1,17 @@
+.field {
+  margin-left: 30%;
+  margin-right: 30%;
+  /* margin-left: 500px; */
+  display: grid;
+  grid-template-columns: repeat(15, 40px);
+  
+}
+
+button {
+  height: 40px;
+  font-size: 24px;
+  
+}
+body {
+  background-color: beige;
+}
